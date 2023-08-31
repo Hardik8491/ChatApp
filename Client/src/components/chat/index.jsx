@@ -5,7 +5,7 @@ import {
   MultiChatWindow,
 } from "react-chat-engine-advanced";
 import Header from "./../customHeader/index";
-import StandardMessageForm from "@/components/customMessageForm/StandardMessageForm/";
+import StandardMessageForm from "@/components/customMessageForm/StandardMessageForm";
 import Ai from "../../components/customMessageForm/Ai";
 import AiCode from "../../components/customMessageForm/AiCode";
 import AiAssist from "../../components/customMessageForm/AiAssist";
